@@ -1,0 +1,3 @@
+displayName = More Jousting Lances
+author = Muffin Pops
+version = 0.1
